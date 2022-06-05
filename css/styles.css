@@ -6196,8 +6196,8 @@ fieldset:disabled .btn {
   text-align: center;
   padding: 0.25rem 0.25rem;
   border-radius: 6px;
-  top: 0.5rem;
-  right: -12rem;
+  top: 4.5rem;
+  right: 4.5rem;
   position: absolute;
   z-index: 1;
 }
