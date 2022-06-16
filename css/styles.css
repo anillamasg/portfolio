@@ -11939,3 +11939,9 @@ html {
   display: flex;
   justify-content: center;
 }
+
+.carousel-item,
+.carousel-item img {
+  max-height: 80vh;
+  height: 100%;
+}
