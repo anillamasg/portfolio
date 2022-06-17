@@ -640,6 +640,11 @@ progress {
   border-color: #19bc9b;
 }
 
+.img-fluid-no-border {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -11868,6 +11873,9 @@ html {
   max-width: 35rem;
   height: 100%;
   overflow: hidden;
+  border-radius: 2rem;
+  border: 0.05rem solid;
+  border-color: #19bc9b;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
